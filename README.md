@@ -1,5 +1,4 @@
 # Time-Series-Forecasting
-MSc Industrial Project at University of Leicester - Client Lambda BI
 
 The main purpose of this project is to develop a dashboard or platform that performs analysis on multiple widely used time series models and provides the user with results of each model enabling him to select the most accurate model among all. This will save time and resources for the organization.
 
